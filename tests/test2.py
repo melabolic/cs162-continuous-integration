@@ -1,6 +1,6 @@
 # code take from https://gist.github.com/kevinyang372/252c0f5a0d37fbef478d6774ef185603?fbclid=IwAR1bGvZwDy16Wod6dnERFKed1qJGfROgscJmJEavOCDbj0lqoAIfUmqRFdw
 import os
-import requests
+from flask import requests
 import unittest
 from sqlalchemy import create_engine
 
